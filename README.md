@@ -58,7 +58,7 @@ Built to explore how project finance analysis can be made interactive and access
 ## Run locally
 
 ```bash
-git clone https://github.com/your-username/energy-advisor.git](https://github.com/mcamposcarneros/Investment-Decision-Support-Tool.git
+git clone https://github.com/mcamposcarneros/Investment-Decision-Support-Tool.git
 cd energy-advisor
 pip install -r requirements.txt
 streamlit run app.py
@@ -125,4 +125,5 @@ To connect ENTSO-E: register at [transparency.entsoe.eu](https://transparency.en
 
 
 This is a personal project built for learning and experimentation purposes. It is not intended for real investment analysis or financial decision-making.
+
 
