@@ -11,6 +11,24 @@ Desarrollada para explorar cómo el análisis de financiación de proyectos pued
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
+---
+
+## Índice
+
+- [Demo online](#demo-online)
+- [Qué hace](#qué-hace)
+- [Capturas de pantalla](#capturas-de-pantalla)
+- [Stack tecnológico](#stack-tecnológico)
+- [Ejecución local](#ejecución-local)
+- [Estructura del proyecto](#estructura-del-proyecto)
+- [Precios de mercado en tiempo real](#precios-de-mercado-en-tiempo-real)
+- [Notas metodológicas](#notas-metodológicas)
+- [Fuentes de datos](#fuentes-de-datos)
+- [Aviso legal](#aviso-legal)
+- [Licencia](#licencia)
+
+---
+---
 
 ## Demo online
 
