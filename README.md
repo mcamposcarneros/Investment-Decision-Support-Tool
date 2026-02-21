@@ -53,9 +53,6 @@ The application is deployed and can be tested directly here:
 
 ## Screenshots
 
-**Sidebar — KPIs & project configuration**
-![Sidebar](screenshots/01_sidebar_kpis.png)
-
 **Results — NPV, IRR, LCOE and cash flow charts**
 ![Results](screenshots/02_results.png)
 
@@ -164,6 +161,7 @@ MIT License — free for academic and personal use.
 ---
 
 ***María Campos Carneros, 2026***
+
 
 
 
