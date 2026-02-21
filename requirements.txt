@@ -1,8 +1,9 @@
-streamlit==1.32.2
-pydantic==2.6.3
+streamlit
+pydantic
 numpy
 pandas
 numpy-financial
 requests
 plotly
 reportlab
+
