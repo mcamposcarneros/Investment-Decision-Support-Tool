@@ -12,6 +12,14 @@ Built to explore how project finance analysis can be made interactive and access
 
 ---
 
+### Online Demo
+
+The application is deployed and can be tested directly here:
+
+👉 https://investment-decision-support-tool.streamlit.app/
+
+---
+
 ## What it does
 
 - Calculates **NPV**, **IRR**, **LCOE** and **Payback** (simple and discounted)
@@ -127,6 +135,7 @@ To connect ENTSO-E: register at [transparency.entsoe.eu](https://transparency.en
 
 
 This is a personal project built for learning and experimentation purposes. It is not intended for real investment analysis or financial decision-making.
+
 
 
 
