@@ -1,5 +1,7 @@
 # Energy Advisor
 
+Language: English | [Español](README_ES.md)
+
 > Interactive financial modelling tool to evaluate renewable energy investments using discounted cash flows.
 
 Built to explore how project finance analysis can be made interactive and accessible — without Excel.
@@ -125,5 +127,6 @@ To connect ENTSO-E: register at [transparency.entsoe.eu](https://transparency.en
 
 
 This is a personal project built for learning and experimentation purposes. It is not intended for real investment analysis or financial decision-making.
+
 
 
