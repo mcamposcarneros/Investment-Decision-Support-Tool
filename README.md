@@ -136,6 +136,16 @@ To connect ENTSO-E: register at [transparency.entsoe.eu](https://transparency.en
 
 This is a personal project built for learning and experimentation purposes. It is not intended for real investment analysis or financial decision-making.
 
+---
+
+## License
+
+MIT License — free for academic and personal use.
+
+---
+
+***María Campos Carneros, 2026***
+
 
 
 
