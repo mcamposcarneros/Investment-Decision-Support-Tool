@@ -12,6 +12,14 @@ Desarrollada para explorar cómo el análisis de financiación de proyectos pued
 
 ---
 
+## Demo online
+
+La aplicación está desplegada y puede probarse directamente aquí:
+
+👉 https://investment-decision-support-tool.streamlit.app/
+
+---
+
 ## Qué hace
 
 - Calcula **VAN**, **TIR**, **LCOE** y **Payback** (simple y descontado)
