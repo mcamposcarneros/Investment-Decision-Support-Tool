@@ -11,8 +11,27 @@ Built to explore how project finance analysis can be made interactive and access
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
+---
 
-### Online Demo
+## Table of Contents
+
+- [Online Demo](#online-demo)
+- [What it does](#what-it-does)
+- [Screenshots](#screenshots)
+- [Tech stack](#tech-stack)
+- [Run locally](#run-locally)
+- [Project structure](#project-structure)
+- [Live market prices](#live-market-prices)
+- [Methodology notes](#methodology-notes)
+- [Data sources](#data-sources)
+- [Disclaimer](#disclaimer)
+- [License](#license)
+
+---
+
+---
+
+## Online Demo
 
 The application is deployed and can be tested directly here:
 
@@ -145,6 +164,7 @@ MIT License — free for academic and personal use.
 ---
 
 ***María Campos Carneros, 2026***
+
 
 
 
