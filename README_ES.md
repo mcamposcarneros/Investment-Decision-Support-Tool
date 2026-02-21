@@ -1,5 +1,7 @@
 # Energy Advisor
 
+Idioma: Español | [English](README.md)
+
 > Herramienta interactiva de modelización financiera para evaluar inversiones en energías renovables mediante flujos de caja descontados.
 
 Desarrollada para explorar cómo el análisis de financiación de proyectos puede hacerse interactivo y accesible — sin Excel.
