@@ -134,3 +134,14 @@ Para conectar ENTSO-E: regístrate en [transparency.entsoe.eu](https://transpare
 ## Aviso legal
 
 Este es un proyecto personal desarrollado con fines de aprendizaje y experimentación. No está destinado a análisis de inversiones reales ni a la toma de decisiones financieras.
+
+---
+
+## Licencia
+
+
+MIT License — libre para uso académico y personal.
+
+---
+
+***María Campos Carneros, 2026***
