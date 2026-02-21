@@ -52,9 +52,6 @@ La aplicación está desplegada y puede probarse directamente aquí:
 
 ## Capturas de pantalla
 
-**Panel lateral — KPIs y configuración del proyecto**
-![Sidebar](screenshots/01_sidebar_kpis.png)
-
 **Resultados — VAN, TIR, LCOE y gráficos de flujo de caja**
 ![Results](screenshots/02_results.png)
 
